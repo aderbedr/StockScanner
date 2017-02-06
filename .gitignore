@@ -1,0 +1,12 @@
+StockScanner/App.config
+*.exe
+*.pdb
+*.dll
+packages/EntityFramework.6.0.0/
+bin/
+obj/
+StockScanner/StockData.edmx.diagram
+StockScanner/StockData.edmx
+StockScanner/StockData.Designer.cs
+StockScanner/StockData.Context.cs
+StockScanner/StockData.Context.tt
